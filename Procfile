@@ -1,1 +1,1 @@
-web: python konochkina_bot.py
+web: python3 konochkina_bot.py
