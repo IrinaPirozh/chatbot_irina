@@ -7,7 +7,7 @@ import json
 
 
 
-driver = webdriver.Chrome("/Users/irinakonochkina/Downloads/chromedriver")
+driver = webdriver.Chrome("/chromedriver")
 
 with open('token.txt') as tk:
     token = tk.read().strip()
